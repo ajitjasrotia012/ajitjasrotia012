@@ -1,16 +1,13 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	
+</p>
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
-![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 
-I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
+I am a software engineer from Jammu & Kashmir, India. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
 
-Also, feel free to check what I've been rambling about on <a href="https://fantinel.dev" target="_blank">my blog</a>.
+Also, feel free to check what I've been rambling about on <a href="https://ajitjasrotia.com" target="_blank">my blog</a>.
 
 <ul>
 <li>Front-End Web Developer</li>
@@ -22,7 +19,7 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
 
-<!--
+
 **ajitjasrotia012/ajitjasrotia012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,4 +32,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
